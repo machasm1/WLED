@@ -10,7 +10,7 @@
 #include "wled.h"
 #include <DHT.h>
 
-#define DHTPIN 17
+#define DHTPIN 4
 #define DHTTYPE DHT11
 
 
